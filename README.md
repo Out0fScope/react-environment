@@ -25,7 +25,7 @@
 ## 🚀 Быстрый старт
 
 ```bash
-git clone https://github.com/your-username/react-environment.git
+git clone https://github.com/Out0fScope/react-environment.git
 cd react-environment
 npm install
 npm run dev       # Запуск dev-сервера с хот-револдом
