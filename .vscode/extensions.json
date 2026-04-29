@@ -5,7 +5,6 @@
     "formulahendry.auto-close-tag",
     "esbenp.prettier-vscode",
     "dbaeumer.vscode-eslint",
-    "planbcoding.vscode-react-refactor",
     "christian-kohler.path-intellisense"
   ]
 }

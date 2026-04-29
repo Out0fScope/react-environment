@@ -11,7 +11,6 @@
 - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) — автозакрытие тегов
 - [Prettier – Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) — автоформатирование кода
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) — линтинг кода по правилам
-- [React Refactor](https://marketplace.visualstudio.com/items?itemName=planbcoding.vscode-react-refactor) — быстрое выделение JSX в компонент
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) — автоподсказки путей к файлам
 
 > 💡 Все рекомендуемые расширения перечислены в `.vscode/extensions.json` и будут предложены при открытии проекта в VS Code.
